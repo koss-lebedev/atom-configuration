@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "2af1ab59-b671-453a-b80f-7bb4793be0f7"
+  core:
+    disabledPackages: [
+      "wrap-guide"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "c835c164-a80c-b25c-f9c3-d4db9cd07bef"
+  welcome:
+    showOnStartup: false
