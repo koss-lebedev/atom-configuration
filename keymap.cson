@@ -1,6 +1,12 @@
 '.platform-darwin':
   'cmd-N': 'fuzzy-finder:toggle-file-finder'
   'ctrl-F': 'project-find:show'
+
+'.platform-darwin atom-text-editor:not([mini])':
+  'cmd-d': 'editor:duplicate-lines'
+  'cmd-w': 'expand-region:expand'
+  'cmd-shift-w': 'expand-region:shrink'
+
 # Your keymap
 #
 # Atom keymaps work similarly to style sheets. Just as style sheets use

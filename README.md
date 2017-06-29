@@ -5,3 +5,4 @@
 - language-swift
 - language-elixir
 - file-icons
+- expand-region
