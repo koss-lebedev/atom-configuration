@@ -1,8 +1,23 @@
-# Additional plugins
+# My working VS Code configuration
 
-- atom-beautify
-- atom-material-syntax
-- language-swift
-- language-elixir
-- file-icons
-- expand-region
+## Plugins
+
+### Common
+
+- GitLens
+- Prettier
+- Beautify
+
+### Web dev
+
+- Auto Close Tag
+- Debugger for Chrome
+- dotENV
+- EditorConfig for VS Code
+- ESLint
+- HTML CSS Support
+- Import Cost
+- Path Intellisense
+- vscode-styled-components
+
+- Ruby
