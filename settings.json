@@ -1,0 +1,33 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "javascript": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "eslint.autoFixOnSave": false,
+    "extensions.ignoreRecommendations": false,
+    "workbench.statusBar.visible": true,
+    "explorer.autoReveal": false,
+    "workbench.colorCustomizations": {},
+    "gitlens.codeLens.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "window.zoomLevel": 1
+}

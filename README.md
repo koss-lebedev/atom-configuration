@@ -21,3 +21,7 @@
 - vscode-styled-components
 
 - Ruby
+
+### Themes
+
+- Solarized-light Theme
