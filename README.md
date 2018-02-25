@@ -1,12 +1,13 @@
 # My working VS Code configuration
 
-## Plugins
+## VS Code Plugins
 
 ### Common
 
 - GitLens
 - Prettier
 - Beautify
+- Polacode
 
 ### Web dev
 
@@ -25,3 +26,13 @@
 ### Themes
 
 - Solarized-light Theme
+
+## Chrome extensions
+
+- Postman
+- SelectorGadget
+- Modify Headers
+- Mobile responsive web design tester
+- ColorZilla
+- Grammarly
+- Lighthouse
