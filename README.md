@@ -20,7 +20,6 @@
 - Import Cost
 - Path Intellisense
 - vscode-styled-components
-
 - Ruby
 
 ### Themes
@@ -31,6 +30,7 @@
 
 - Postman
 - SelectorGadget
+- WhatRuns
 - Modify Headers
 - Mobile responsive web design tester
 - ColorZilla
