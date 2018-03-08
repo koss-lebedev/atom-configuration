@@ -16,6 +16,7 @@
 - dotENV
 - EditorConfig for VS Code
 - ESLint
+- StyleLint
 - HTML CSS Support
 - Import Cost
 - Path Intellisense
