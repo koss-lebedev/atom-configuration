@@ -37,3 +37,4 @@
 - ColorZilla
 - Grammarly
 - Lighthouse
+- JSON formatter
